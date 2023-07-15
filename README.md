@@ -7,7 +7,21 @@ Skills: ASP.NET / SQL / JS / HTML / CSS
 - 🌱 I’m currently learning .NET Core 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' target='_blank' height='40'>](https://github.com/mabattal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' target='_blank' height='40'>](https://www.linkedin.com/in/mabattal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' target='_blank' height='40'>](https://www.instagram.com/mabattal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' target='_blank' height='40'>](https://twitter.com/mehmetalibattal)  
+<p align="left">
+  <a href="https://github.com/mabattal" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/mabattal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  </a>
+  <a href="https://www.instagram.com/mabattal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
+  </a>
+  <a href="https://twitter.com/mehmetalibattal" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
+  </a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabattal)](https://github.com/anuraghazra/github-readme-stats)
 
