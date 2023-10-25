@@ -2,7 +2,7 @@
 #### Computer Engineer and Software Developer
 I'm Mehmet Ali from Turkey and I'm dealing with software development. I really enjoy learning languages like ASP.Net, Java, Python and also coding. I also enjoy doing backend programming and business analyst in general.
 
-Skills: ASP.NET / SQL / JS / HTML / CSS
+Skills: ASP.NET / ENTITY FRAMEWORK CORE / SQL / JS / HTML / CSS
 
 - 🌱 I’m currently learning .NET Core 
 
