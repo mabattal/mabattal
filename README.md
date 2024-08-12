@@ -22,7 +22,3 @@ Skills: ASP.NET / ENTITY FRAMEWORK CORE / SQL / JS / HTML / CSS
   </a>
 </p>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabattal)](https://github.com/anuraghazra/github-readme-stats)
-
