@@ -82,7 +82,7 @@
 
 ## 🎯 Career Vision
 
-I am specializing in backend development with Java & .NET technologies, focusing on microservices, distributed systems, and secure backend design. My goals include:
+I am specializing in backend development with Java technologies, focusing on microservices, distributed systems, and secure backend design. My goals include:
 
 - 🔹 Gaining deep expertise in event-driven architecture  
 - 🔹 Solving complex transactional challenges  
