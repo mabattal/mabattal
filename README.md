@@ -50,9 +50,10 @@
 
 ### 🎬 **[Next Season](https://nextseason.one)**
 *Live Production TV Series Tracking Platform*
+
 🚀 **Architecture:** Built as a robust **Layered Monolith**, currently being refactored into a **Modular Monolith** structure to enhance domain isolation and maintainability.  
+🔔 **Event-Driven Notifications:** Engineered an **asynchronous event architecture** to track release dates and trigger instant **push notifications** to mobile users for new season announcements.  
 💾 **Data & Performance:** Optimized **PostgreSQL** queries and implemented **Redis** caching strategies to handle high-traffic external API consumption efficiently.  
-🔌 **Integration:** Seamless 3rd-party API integration with **Retry**, **Backoff**, and Rate Limiting mechanisms to ensure system stability.  
 ☁️ **DevOps:** Fully **Dockerized** application environment managed with automated **CI/CD pipelines** for streamlined deployment.  
 🔐 **Security:** Secured endpoints using **Spring Security** with stateless **JWT** authentication and comprehensive CORS configuration.
 
