@@ -1,7 +1,7 @@
 <h1 align="center">🧑‍💻 Mehmet Ali Battal | Backend Developer</h1>
 
 <p align="center">
-  <i>A backend developer focused on Java and .NET technologies. I work on microservices architecture, distributed systems, and secure authentication solutions.</i>
+  <i>A backend developer focused on Java technologies. I work on microservices architecture, distributed systems, and secure authentication solutions.</i>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎯 **Career Focus:** Building high-performance microservices using Java Spring Boot & .NET Core  
+- 🎯 **Career Focus:** Building high-performance microservices using Java Spring Boot  
 - 🔄 **Event-Driven Architecture:** Implementing SAGA pattern with Apache Kafka  
 - 🔐 **Authentication:** Developing secure session control and token management using JWT + Redis  
 - 🛠️ **Learning by Building:** I prioritize practical learning by applying what I study directly into projects  
